@@ -20,4 +20,5 @@ To run the Docker Image used the command:
 Hello from Kubernetes
 
 Server IP Address is: 192.168.215.2
+
 Made by SeniorDevOpsSergio
