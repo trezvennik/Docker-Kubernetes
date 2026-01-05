@@ -17,9 +17,7 @@ To run the Docker Image used the command:
 
 *docker run -it -p Your_port:80 Your_nickname/Repository_name:latest*
 # 🏆 The result of Apache php Docker Container
-<img src="https://github.com/MatveyGuralskiy/Docker-Kubernetes/blob/main/Screens/Apache_php/Result.png?raw=true"/>
-<br>
-<br>
+Hello from Kubernetes
 
-## 🐋 Docker Image 
-<img src="https://github.com/MatveyGuralskiy/Docker-Kubernetes/blob/main/Screens/Apache_php/Docker_Image.png?raw=true"/>
+Server IP Address is: 192.168.215.2
+Made by SeniorDevOpsSergio
